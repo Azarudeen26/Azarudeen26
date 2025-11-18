@@ -14,14 +14,14 @@
 <h2 align="center">📌 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzarDeen&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azarudeen26&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
 Data Science professional skilled in Python, Machine Learning, Deep Learning, NLP, SQL,  
 Power BI, Streamlit, and Data Visualization.  
 Completed Data Science Certification from GUVI – IITM and built multiple end-to-end  
-analytic dashboards, ML models, and real-world business solutions.  
+analytic dashboards, ML models, and business solutions.  
 3.5+ years of corporate experience at Capgemini (SAP, Oracle, P2P, Reporting).
 </p>
 
@@ -112,18 +112,30 @@ Anomaly Detection using Isolation Forest + Sentence Embeddings
 <h2 align="center">🏗️ Top Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzarDeen&repo=PhonePe_Transaction_Insights&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzarDeen&repo=Luxury_Housing_Analytics&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Azarudeen26/PhonePe_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azarudeen26&repo=PhonePe_project&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Azarudeen26/luxury_housing_sales">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azarudeen26&repo=luxury_housing_sales&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzarDeen&repo=Content_Monetization_Model&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzarDeen&repo=Amazon_Music_Clustering&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Azarudeen26/Content_Monetization_Modeler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azarudeen26&repo=Content_Monetization_Modeler&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Azarudeen26/Amazon_Music_Clustering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azarudeen26&repo=Amazon_Music_Clustering&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzarDeen&repo=Fish_Image_Classification_DL&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzarDeen&repo=Hyperlocal_News_Anomaly_Detection&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Azarudeen26/Multiclass-Fish-Image-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azarudeen26&repo=Multiclass-Fish-Image-Classification&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Azarudeen26/Hyperlocal_News_Anomaly_Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azarudeen26&repo=Hyperlocal_News_Anomaly_Detection&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <hr/>
@@ -133,7 +145,7 @@ Anomaly Detection using Isolation Forest + Sentence Embeddings
 <h2 align="center">📜 Certifications</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GUVI%20-%20IITM-Data%20Science-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GUVI%20–%20IITM-Data%20Science-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsoft-Power%20BI-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-Programming-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-ML%20Services-yellow?style=for-the-badge"/>
@@ -159,8 +171,8 @@ Anomaly Detection using Isolation Forest + Sentence Embeddings
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzarDeen&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzarDeen&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azarudeen26&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azarudeen26&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
 <hr/>
@@ -169,7 +181,7 @@ Anomaly Detection using Isolation Forest + Sentence Embeddings
 
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzarDeen&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azarudeen26&theme=react-dark"/>
 </p>
 
 <hr/>
