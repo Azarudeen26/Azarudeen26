@@ -18,11 +18,7 @@
 </p>
 
 <p align="center">
-Data Science professional skilled in Python, Machine Learning, Deep Learning, NLP, SQL,  
-Power BI, Streamlit, and Data Visualization.  
-Completed Data Science Certification from GUVI – IITM and built multiple end-to-end  
-analytic dashboards, ML models, and business solutions.  
-3.5+ years of corporate experience at Capgemini (SAP, Oracle, P2P, Reporting).
+Data Analyst & Data Science Professional skilled in Python, SQL, Power BI, ML, DL, and NLP. Certified in Data Science from GUVI–IIT Madras, with strong hands-on project experience in analytics, predictive modeling, and data visualization. Brings 3.5+ years of corporate experience at Capgemini in SQL-based data extraction, data validation, advanced Excel reporting, MIS reporting, and Power BI dashboard development. Proven ability to translate business problems into actionable, data-driven insights.
 </p>
 
 <hr/>
